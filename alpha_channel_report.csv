@@ -1,7 +1,0 @@
-file,mode,alpha_min,alpha_max,has_useful_transparency
-pattern_1.png,RGBA,255,255,False
-pattern_2.png,RGBA,255,255,False
-pattern_3.png,RGBA,255,255,False
-pattern_4_heron.png,RGBA,255,255,False
-normal.png,RGBA,255,255,False
-mask_tmc.png,RGBA,255,255,False
